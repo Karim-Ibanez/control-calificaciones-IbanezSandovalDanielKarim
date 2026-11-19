@@ -42,4 +42,3 @@ registrarA.addEventListener("click", () => {
 reiniciar.addEventListener("click", ()=>{
     tarjetas.innerHTML = "";
 });
-
